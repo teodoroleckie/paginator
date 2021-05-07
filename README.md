@@ -50,31 +50,31 @@ PaginatorInterface
 ### All methods:
 ```php
 
-    public function getTotalRecords(): int;
+ public function getTotalRecords(): int;
 
-    public function getItemsPerPage(): int;
+ public function getItemsPerPage(): int;
 
-    public function getCurrentPage(): int;
+ public function getCurrentPage(): int;
 
-    public function setCurrentPage(int $currentPage): PaginatorInterface;
+ public function setCurrentPage(int $currentPage): PaginatorInterface;
 
-    public function setTotalRecords(int $totalRecords): PaginatorInterface;
+ public function setTotalRecords(int $totalRecords): PaginatorInterface;
 
-    public function setItemsPerPage(int $itemsPerPage): PaginatorInterface;
+ public function setItemsPerPage(int $itemsPerPage): PaginatorInterface;
 
-    public function hasPrev(): bool;
+ public function hasPrev(): bool;
 
-    public function hasNext(): bool;
+ public function hasNext(): bool;
 
-    public function getNextPage(): int;
+ public function getNextPage(): int;
 
-    public function getPrevPage(): int;
+ public function getPrevPage(): int;
 
-    public function getLastPage(): int;
+ public function getLastPage(): int;
 
-    public function getFirstPage(): int;
+ public function getFirstPage(): int;
 
-    public function getOffset(): int;
+ public function getOffset(): int;
 
-    public function getTotalPages(): int;
+ public function getTotalPages(): int;
 ```
