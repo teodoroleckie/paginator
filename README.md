@@ -1,6 +1,5 @@
 # Php paginator
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/tleckie/paginator.svg?style=flat-square)](https://packagist.org/packages/tleckie/paginator)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/teodoroleckie/paginator/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/teodoroleckie/paginator/?branch=main)
 [![Build Status](https://scrutinizer-ci.com/g/teodoroleckie/paginator/badges/build.png?b=main)](https://scrutinizer-ci.com/g/teodoroleckie/paginator/build-status/main)
 [![Total Downloads](https://img.shields.io/packagist/dt/tleckie/paginator.svg?style=flat-square)](https://packagist.org/packages/tleckie/paginator)
